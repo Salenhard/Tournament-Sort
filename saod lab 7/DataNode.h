@@ -9,10 +9,7 @@ public:
 	int active;
 
 	friend int operator <= (const DataNode<T>& x, const DataNode<T>& y) {
-		if (x.data <= y.data)
-			return 1;
-		else
-			return 0;
+		return (bool)(x <= y);
 	}
 };
 

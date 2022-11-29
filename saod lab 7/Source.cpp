@@ -15,7 +15,7 @@ void tournamentSort(T a[], int n)
 	int i, j;
 	bottomRowSize = pow(n,2);
 	treeSize = 2 * bottomRowSize - 1;
-	tree = new DataNode<T>(treesize);
+	tree = new DataNode<T>(treeSize);
 	j = 0;
 	for (i = loadindex; i < treeSize; i++) {
 

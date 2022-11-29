@@ -1,0 +1,14 @@
+﻿  saod lab 7.cpp
+C:\Users\User\Desktop\VladbIka\Tournament-Sort\saod lab 7\Heap.h(101,7): warning C4101: j: неиспользованная локальная переменная
+C:\Users\User\Desktop\VladbIka\Tournament-Sort\saod lab 7\Heap.h(100): message : во время компиляции функции-члена класс шаблон "Heap<int>::Heap(T [],int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\User\Desktop\VladbIka\Tournament-Sort\saod lab 7\saod lab 7.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "Heap<int>::Heap(T [],int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\User\Desktop\VladbIka\Tournament-Sort\saod lab 7\saod lab 7.cpp(21): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Heap<int>"
+  saod lab 7.vcxproj -> C:\Users\User\Desktop\VladbIka\Tournament-Sort\x64\Debug\saod lab 7.exe

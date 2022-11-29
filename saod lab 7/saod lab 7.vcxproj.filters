@@ -27,12 +27,18 @@
     <ClCompile Include="Heap.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="PQueue.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataNode.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Heap.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="PQueue.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
